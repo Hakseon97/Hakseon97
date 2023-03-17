@@ -1,19 +1,19 @@
 # Hakseon Kim
 ---
----
-### Profile
+
+<h3> Profile </h3>
 
 
 
 
----
-### Skills
 
-
----
-### Projects
+<h3> Projects </h3>
 
 
 
----
-### Contacts
+<h3> Skills </h3>
+
+
+
+
+<h3> Contact me </h3>
