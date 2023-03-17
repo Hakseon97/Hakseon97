@@ -1,5 +1,5 @@
 <div align='center'>
-  # Hakseon Kim
+  <h1>Hakseon Kim</h1>
 </div>
 
 <h3> Profile </h3>
