@@ -1,4 +1,6 @@
-# Hakseon Kim{: .text-center}
+<div align='center'>
+  # Hakseon Kim
+</div>
 
 <h3> Profile </h3>
 
