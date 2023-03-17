@@ -1,4 +1,5 @@
-<center>#Hakseon Kim</center>
+# Hakseon Kim
+{: .text-center}
 
 <h3> Profile </h3>
 
