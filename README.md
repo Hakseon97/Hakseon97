@@ -4,11 +4,11 @@
 </div>
 
 <h2> <b><i>PROFILE</i></b> </h2>
-- Amateur Data Analyst <br> 
+- Amateur Data Analyst & Engineer <br> 
 - B.E. in Mechanical Engineering <br>
 - Studying <b>MLOps</b>
 
-<br>
+<br><br>
 <h2> <b><i>SKILLS</i></b> </h2>
 <div>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
@@ -20,7 +20,7 @@
 </div>
 
 <br>
-<h2> <b><i> STUDYING </i></b> </h2>
+<h2> <b><i> LEARNING </i></b> </h2>
 <div>
 <img src="https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=Apache Airflow&logoColor=b"/>
 <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/>
@@ -33,6 +33,3 @@
 <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira&logoColor=white"/>
 <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white"/>
 </div>
-
-
-
