@@ -1,5 +1,4 @@
-# Hakseon Kim
-{: .text-center}
+# Hakseon Kim{: .text-center}
 
 <h3> Profile </h3>
 
