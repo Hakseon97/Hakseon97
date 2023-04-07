@@ -34,7 +34,7 @@
 </div>
 
 <br>
-<h2> PROJECTS </h2>
+<h2> <b><i> PROJECTS </i></b> </h2>
 
 PROJECT | DATE | SKILLS | LINK
 --------|------|--------|-----|
