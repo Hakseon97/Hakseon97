@@ -33,5 +33,10 @@
 <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white"/>
 </div>
 
+<h2> Projects </h2>
+PROJECT | DATE | SKILLS | LINK
+------------|------|-------|-----|
+Repeated defects detection | 2023.01.01 - 2023.03.09 | Python | [](https://www.youtube.com/watch?v=6WSPXrCfTUE)
+
 
 
