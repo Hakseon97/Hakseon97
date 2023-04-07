@@ -33,7 +33,8 @@
 <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white"/>
 </div>
 
-<h2> Projects </h2>
+<br>
+<h2> PROJECTS </h2>
 
 PROJECT | DATE | SKILLS | LINK
 --------|------|--------|-----|
