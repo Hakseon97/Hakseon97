@@ -35,7 +35,7 @@
 
 <h2> Projects </h2>
 PROJECT | DATE | SKILLS | LINK
-------------|------|-------|-----|
+---------------------------|-------------------------|--------|-------------------------------------------------------|
 Repeated defects detection | 2023.01.01 - 2023.03.09 | Python | [Youtube](https://www.youtube.com/watch?v=6WSPXrCfTUE)
 
 
