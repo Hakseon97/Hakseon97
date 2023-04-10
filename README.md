@@ -40,7 +40,7 @@
 
 PROJECT | CATEGORY | DATE | SKILLS | LINK
 --------|----------|------|--------|------|
-Unknown | 고용노동부 공모전 | 2023.03.20 - 2023.07.21 | Pytorch, Docker, Airflow, WandB | [CODE](https://github.com/Hakseon97/)
+(공모전 종료 후 업로드) | 고용노동부 공모전 | 2023.03.20 - 2023.07.21 | Pytorch, Docker, Airflow, WandB | [CODE](https://github.com/Hakseon97/)
 항공편 지연 예측 | Dacon 경진대회 | 2023.04.12 - 2023.05.08 | Pytorch, Airflow, WandB | [CODE](https://github.com/Hakseon97/)
 공기압축기 이상탐지 | AiFactory 경진대회 | 2023.04.03 - 2023.04.21 | Pytorch, Airflow, WandB | [CODE](https://github.com/Hakseon97/AirCompressor_anomaly_detection_AIFACTORY)
 반도체 후공정에서의 반복적 결함탐지 | SK hynix 연계프로젝트 | 2023.01.01 - 2023.03.09 | Python | [CODE](https://github.com/Hakseon97/Anomaly_wafer_detection_with_SKhynix) [PRESENTATION](https://www.youtube.com/watch?v=6WSPXrCfTUE)
