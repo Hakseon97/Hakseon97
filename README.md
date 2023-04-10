@@ -38,7 +38,5 @@
 
 PROJECT | DATE | SKILLS | LINK
 --------|------|--------|-----|
-Repeated defects detection | 2023.01.01 ~ 2023.03.09 | Python | [Youtube](https://www.youtube.com/watch?v=6WSPXrCfTUE)
-
-
-
+AirCompressor Anomaly Detection | 2023.04.03 - 2023.04.21 | Python, Airflow, WandB | [공기압축기 이상탐지](https://github.com/Hakseon97/AirCompressor_anomaly_detection_AIFACTORY)
+Repeated defects detection | 2023.01.01 - 2023.03.09 | Python | [발표영상](https://www.youtube.com/watch?v=6WSPXrCfTUE)
