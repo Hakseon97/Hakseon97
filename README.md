@@ -42,7 +42,7 @@ PROJECT | CATEGORY | DATE | SKILLS | LINK
 --------|----------|------|--------|------|
 (공모전 종료 후 업로드) | 고용노동부 공모전 | 2023.03.20 - 2023.07.21 | Pytorch, Docker, Airflow, WandB | [CODE](https://github.com/Hakseon97/)
 도서 추천 알고리즘 | Dacon 경진대회 | 2023.04.17 - 2023.05.15 | Pytorch, Airflow, WandB | [CODE](https://github.com/Hakseon97/)
-공기압축기 이상탐지 | AiFactory 경진대회 | 2023.04.03 - 2023.04.21 | Pytorch, Airflow, WandB | [CODE](https://github.com/Hakseon97/AirCompressor_anomaly_detection_AIFACTORY)
+공기압축기 이상탐지 (공동22등/803명) | AiFactory 경진대회 | 2023.04.03 - 2023.04.21 | Pytorch, Airflow, WandB | [CODE](https://github.com/Hakseon97/AirCompressor_anomaly_detection_AIFACTORY)
 반도체 후공정에서의 반복적 결함탐지 | SK hynix 연계프로젝트 | 2023.01.01 - 2023.03.09 | Python | [CODE](https://github.com/Hakseon97/Anomaly_wafer_detection_with_SKhynix) [PRESENTATION](https://www.youtube.com/watch?v=6WSPXrCfTUE)
 감귤 착과량 예측 | Dacon 경진대회 | 2022.12.12 - 2022.12.14 | Python | [CODE](https://github.com/Hakseon97/predicting-tangerine-yield_DACON)
 대주주 및 주요주주 지분공시에 따른 주가향방 예측 | ASAC 팀 프로젝트 | 2022.11.03 - 2022.11.18 | Python | [CODE](https://github.com/Hakseon97/predicting_stock_trends_based_on_major_shareholder_disclosures_ASAC)
