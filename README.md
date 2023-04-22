@@ -32,7 +32,7 @@
 <br>
 <h2> <b><i> NEXT </i></b> </h2>
 <div>
-<img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white"/>
+
 </div>
 
 <br>
